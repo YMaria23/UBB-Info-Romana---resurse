@@ -1,0 +1,5 @@
+1,planta a,suculenta,342
+2,planta b,tropicala,579
+3,planta c,aeriana,255
+4,planta d,infloritoare,645
+6,planta e,altceva,23
