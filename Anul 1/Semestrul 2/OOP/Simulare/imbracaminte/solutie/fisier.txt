@@ -1,0 +1,5 @@
+10,pantaloni,albastru,34.4
+5,bluza,rosu,45.21
+3,bluza,verde,215
+11,hanorac,alb,123
+12,pantaloni,negru,133
