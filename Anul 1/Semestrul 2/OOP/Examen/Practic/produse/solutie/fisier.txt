@@ -1,0 +1,6 @@
+1,nume 1,cv tip,123.3
+4,branza,ca la tara,12.49
+5,alune,roasted,12.2
+7,lapte,ca la tara,10.5
+3,ciocolata,cv tip,15.5
+10,nume 2,cv tip,23.5
