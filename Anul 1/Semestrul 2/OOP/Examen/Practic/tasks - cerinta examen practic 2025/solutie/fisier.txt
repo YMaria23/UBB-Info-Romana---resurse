@@ -1,0 +1,12 @@
+1,descriere 1,inprogress,p1,p2
+3,descriere 2,open,p1
+4,descriere 3,inprogress,p1,p2,p3
+5,descriere 1,closed,p2
+12,descriere 2,inprogress,p1p1,p2,p3,p4p1
+31,descrs,inprogress,p1p2
+11,desc,inprogress,p2p1
+10,desc,closed,p2
+32,d,open,p1,p2
+33,e,open,p1
+35,d,open,p1
+41,sdgfhshef,open,pq
