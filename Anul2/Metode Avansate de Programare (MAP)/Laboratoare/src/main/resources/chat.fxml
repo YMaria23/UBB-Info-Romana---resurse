@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controller.Chats.ChatController">
+   <children>
+      <ListView fx:id="listChats" layoutX="28.0" layoutY="75.0" prefHeight="244.0" prefWidth="178.0" />
+      <ScrollPane fx:id="scrollPane" layoutX="237.0" layoutY="75.0" prefHeight="244.0" prefWidth="349.0">
+         <content>
+            <VBox fx:id="vBoxMessages" prefHeight="241.0" prefWidth="329.0" spacing="10" />
+         </content>
+      </ScrollPane>
+      <Label fx:id="labelTitle" layoutX="178.0" layoutY="23.0" prefHeight="30.0" prefWidth="239.0" text="List of Chats for User" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold Italic" size="20.0" />
+         </font>
+      </Label>
+      <Button layoutX="537.0" layoutY="327.0" mnemonicParsing="false" onAction="#onReply" text="Reply" />
+      <Button layoutX="28.0" layoutY="329.0" mnemonicParsing="false" onAction="#onStartNewChat" prefHeight="27.0" prefWidth="178.0" text="Start a new Chat" />
+      <Label layoutX="28.0" layoutY="367.0" prefHeight="19.0" prefWidth="263.0" text="For replying to a message, please select it first!" textFill="#4b19a1">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Label>
+      <TextField fx:id = "textFieldReply" layoutX="235.0" layoutY="329.0" prefHeight="24.0" prefWidth="295.0">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </TextField>
+   </children>
+</AnchorPane>
