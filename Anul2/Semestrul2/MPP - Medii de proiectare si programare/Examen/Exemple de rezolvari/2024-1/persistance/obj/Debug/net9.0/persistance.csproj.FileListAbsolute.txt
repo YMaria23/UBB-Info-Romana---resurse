@@ -1,0 +1,16 @@
+C:\Facultate\MPPExam\exercitiu1\persistance\bin\Debug\net9.0\log4net.config
+C:\Facultate\MPPExam\exercitiu1\persistance\bin\Debug\net9.0\persistance.deps.json
+C:\Facultate\MPPExam\exercitiu1\persistance\bin\Debug\net9.0\persistance.dll
+C:\Facultate\MPPExam\exercitiu1\persistance\bin\Debug\net9.0\persistance.pdb
+C:\Facultate\MPPExam\exercitiu1\persistance\bin\Debug\net9.0\model.dll
+C:\Facultate\MPPExam\exercitiu1\persistance\bin\Debug\net9.0\model.pdb
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.csproj.AssemblyReference.cache
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.AssemblyInfoInputs.cache
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.AssemblyInfo.cs
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.csproj.CoreCompileInputs.cache
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persista.3AB18312.Up2Date
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.dll
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\refint\persistance.dll
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\persistance.pdb
+C:\Facultate\MPPExam\exercitiu1\persistance\obj\Debug\net9.0\ref\persistance.dll

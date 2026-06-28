@@ -1,0 +1,14 @@
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\bin\Debug\net9.0\exExamenWeb.exe
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\bin\Debug\net9.0\exExamenWeb.deps.json
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\bin\Debug\net9.0\exExamenWeb.runtimeconfig.json
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\bin\Debug\net9.0\exExamenWeb.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\bin\Debug\net9.0\exExamenWeb.pdb
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.AssemblyInfoInputs.cache
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.AssemblyInfo.cs
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.csproj.CoreCompileInputs.cache
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\refint\exExamenWeb.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.pdb
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\exExamenWeb.genruntimeconfig.cache
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\exExamenWeb\obj\Debug\net9.0\ref\exExamenWeb.dll

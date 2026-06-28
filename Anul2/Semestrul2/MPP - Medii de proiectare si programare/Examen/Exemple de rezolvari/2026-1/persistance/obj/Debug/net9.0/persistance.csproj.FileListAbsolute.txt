@@ -1,0 +1,16 @@
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\bin\Debug\net9.0\log4net.config
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\bin\Debug\net9.0\persistance.deps.json
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\bin\Debug\net9.0\persistance.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\bin\Debug\net9.0\persistance.pdb
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\bin\Debug\net9.0\model.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\bin\Debug\net9.0\model.pdb
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.csproj.AssemblyReference.cache
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.AssemblyInfoInputs.cache
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.AssemblyInfo.cs
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.csproj.CoreCompileInputs.cache
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persista.3AB18312.Up2Date
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\refint\persistance.dll
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\persistance.pdb
+C:\Facultate\Semestrul 4\MPP\exExamenWeb\persistance\obj\Debug\net9.0\ref\persistance.dll

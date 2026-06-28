@@ -1,0 +1,14 @@
+C:\Facultate\MPPExam\exercitiu1\templ\bin\Debug\net9.0\templ.exe
+C:\Facultate\MPPExam\exercitiu1\templ\bin\Debug\net9.0\templ.deps.json
+C:\Facultate\MPPExam\exercitiu1\templ\bin\Debug\net9.0\templ.runtimeconfig.json
+C:\Facultate\MPPExam\exercitiu1\templ\bin\Debug\net9.0\templ.dll
+C:\Facultate\MPPExam\exercitiu1\templ\bin\Debug\net9.0\templ.pdb
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.AssemblyInfoInputs.cache
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.AssemblyInfo.cs
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.csproj.CoreCompileInputs.cache
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.dll
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\refint\templ.dll
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.pdb
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\templ.genruntimeconfig.cache
+C:\Facultate\MPPExam\exercitiu1\templ\obj\Debug\net9.0\ref\templ.dll
