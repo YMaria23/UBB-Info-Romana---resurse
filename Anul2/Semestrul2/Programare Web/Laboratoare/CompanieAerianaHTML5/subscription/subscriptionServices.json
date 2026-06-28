@@ -1,0 +1,31 @@
+{
+    "traveler": [
+        {
+            "id": "snacks",
+            "label": "30 snack-uri gratuite la fiecare zbor",
+            "value": "snacks"
+        },
+        {
+            "id": "luggage",
+            "label": "2 kg suplimentare pentru bagajul de cală, gratuit",
+            "value": "luggage"
+        },
+        {
+            "id": "priority",
+            "label": "Îmbarcare prioritară + selectarea locului gratuit la fiecare zbor",
+            "value": "priority"
+        }
+    ],
+    "goldTraveler": [
+        {
+            "id": "food",
+            "label": "Mâncare gratuită (nelimitată) la fiecare zbor",
+            "value": "food"
+        },
+        {
+            "id": "lounge",
+            "label": "Acces la business lounge la fiecare zbor",
+            "value": "lounge"
+        }
+    ]
+}

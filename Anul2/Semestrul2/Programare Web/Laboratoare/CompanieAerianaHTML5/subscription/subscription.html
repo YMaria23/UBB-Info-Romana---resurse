@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ro">
+    <head>
+        <meta charset="UTF-8">
+        <title>Get your subscription</title>
+        <link rel="stylesheet" href="../officeStyle.css">
+        <link rel="stylesheet" href="../booking/bookingStyle.css">
+    </head>
+    <body class="booking-page subscription-page">
+        <div class="subscription-back-wrap">
+            <a href="../information/travelerInfo.html" class="subscription-back-btn">Înapoi la Servicii</a>
+        </div>
+
+        <!-- ===== Formular abonament ===== -->
+        <main class="booking-shell">
+            <h1>Obține abonamentul tău</h1>
+            <p class="booking-subtitle">Completează formularul de mai jos și noi ne ocupăm de restul.</p>
+
+            <form id="reservationForm" target="_self" class="booking-form">
+                <fieldset>
+                    <legend>Informații personale</legend>
+
+                    <div class="form-row">
+                        <label for="name">Nume</label>
+                        <input type="text" id="name" name="name" maxlength="30">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="firstName">Prenume</label>
+                        <input type="text" id="firstName" name="firstName">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="dateOfBirth">Data nașterii</label>
+                        <input type="datetime-local" id="dateOfBirth" name="dateOfBirth" min="1920-01-01T00:00" max="2008-12-31T23:59">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="age">Vârstă</label>
+                        <input type="text" id="age" name="age">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="phone">Număr de telefon</label>
+                        <input type="tel" id="phone" name="phone" pattern="[0-9]{10}" placeholder="Ex: 0712345678">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="password">Parolă</label>
+                        <input type="password" id="password" name="password" maxlength="20" placeholder="Introduceți parola">
+                    </div>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>Informații abonament</legend>
+
+                    <div class="form-row">
+                        <label for="subscriptionType">Tipul abonamentului</label>
+                        <select id="subscriptionType" name="subscriptionType">
+                            <option value="" disabled selected>-- Selectează un plan --</option>
+                            <option value="traveler">Traveler (20 RON)</option>
+                            <option value="goldTraveler">Gold Traveler (50 RON)</option>
+                        </select>
+                    </div>
+
+                    <div class="form-row" id="chosenServiceRow">
+                        <span>Serviciu la alegere</span>
+                        <!-- Populat dinamic via AJAX din subscriptionServices.json -->
+                        <div id="chosenService"></div>
+                    </div>
+
+                    <div class="form-row">
+                        <p>Servicii opționale:</p>
+                        <label><input type="checkbox" name="optionalServices" value="wifi"> Wi-Fi la bord (5 RON)</label><br>
+                        <label><input type="checkbox" name="optionalServices" value="kit"> Kit de confort (10 RON)</label><br>
+                        <label><input type="checkbox" name="optionalServices" value="drinks"> Băuturi gratuite (7 RON)</label>
+                    </div>
+
+                    <div class="form-row full-row">
+                        <label for="activationMonth">Luna din care să fie activat abonamentul (se consideră prima zi din acea lună): </label>
+                        <input type="month" id="activationMonth" name="activationMonth" value="2026-04">
+                    </div>
+
+                    <div class="form-row full-row">
+                        <label for="avatarColor">Alege culoarea avatarului tău:</label>
+                        <input type="color" id="avatarColor" name="avatarColor" value="#643bf7">
+                    </div>
+
+                    <div class="form-row full-row">
+                        <label for="rating">Cât de ușor de completat a fost formularul? (între 1 și 5)</label>
+                        <input type="range" id="rating" name="rating" min="1" max="5" value="3">
+                    </div>
+
+                    <div class="form-row full-row">
+                        <details>
+                            <summary>Informații importante</summary>
+                            <p>Datele colectate prin acest formular sunt utilizate strict pentru procesarea rezervării și comunicarea detaliilor de zbor, conform reglementărilor GDPR în vigoare.</p>
+                        </details>
+                    </div>
+
+                    <div class="full-row">
+                        <input type="submit" id="subscriptionSubmit" value="Rezervă" disabled>
+                    </div>
+
+                    <div class="full-row">
+                        <input type="reset" id="subscriptionReset" value="Resetează">
+                    </div>
+                </fieldset>
+            </form>
+        </main>
+
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="subscription_jquery.js"></script>
+    </body>
+</html>

@@ -1,0 +1,326 @@
+.traveler-dashboard {
+    min-height: 100vh;
+    background: #ffffff;
+}
+
+.traveler-dashboard .top-menu {
+    position: static;
+    width: 100%;
+    background: #0f3057;
+    box-shadow: 0 4px 10px rgba(6, 20, 36, 0.25);
+}
+
+.traveler-dashboard .top-menu ul {
+    width: 960px;
+    min-width: 960px;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0;
+    list-style: none;
+}
+
+.traveler-dashboard .top-menu li {
+    flex: 1 1 0;
+}
+
+.traveler-dashboard .top-menu a {
+    display: block;
+    text-align: center;
+    color: #ffffff;
+    padding: 0.9rem 0.8rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transform: none;
+    animation: none;
+    transition: none;
+}
+
+.traveler-dashboard .top-menu a::before {
+    content: none;
+    background-image: none;
+    animation: none;
+    transition: none;
+}
+
+.traveler-dashboard .top-menu a:hover,
+.traveler-dashboard .top-menu a.active {
+    animation: none;
+    transition: none;
+    background-color: #173b63;
+    border-bottom-color: #d8e7f7;
+}
+
+.dashboard-shell {
+    width: calc(100% - 2rem);
+    margin: 1.25rem 1rem 2.5rem;
+    display: grid;
+    gap: 1rem;
+}
+
+.dashboard-hero {
+    background: linear-gradient(145deg, #0f3057, #1c4f7e);
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 1.2rem 1.35rem;
+    box-shadow: 0 12px 24px rgba(15, 48, 87, 0.2);
+}
+
+.dashboard-hero h1 {
+    margin: 0.5rem 0 0.35rem;
+    font-size: 2rem;
+}
+
+.dashboard-hero p {
+    margin: 0;
+    max-width: 72ch;
+}
+
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.info-card {
+    background-color: #ffffff;
+    border: 1px solid #d8e2ef;
+    border-radius: 6px;
+    padding: 1rem;
+    box-shadow: 0 6px 16px rgba(9, 24, 40, 0.08);
+}
+
+.info-card h2 {
+    margin: 0;
+    color: #173b63;
+    font-size: 1.05rem;
+}
+
+.card-subtitle {
+    margin: 0.25rem 0 0.6rem;
+    color: #4c6079;
+    font-size: 0.9rem;
+}
+
+.info-card ul {
+    margin: 0;
+    padding-left: 1rem;
+    display: grid;
+    gap: 0.32rem;
+}
+
+.pricing-panel {
+    background-color: #ffffff;
+    border: 1px solid #d8e2ef;
+    border-radius: 6px;
+    padding: 1rem;
+    box-shadow: 0 6px 16px rgba(9, 24, 40, 0.08);
+}
+
+.pricing-panel h2 {
+    margin: 0;
+    color: #173b63;
+    font-size: 1.2rem;
+}
+
+.panel-intro {
+    margin: 0.3rem 0 0.9rem;
+    color: #425773;
+}
+
+.class-cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.8rem;
+}
+
+.class-card {
+    border-radius: 6px;
+    padding: 0.9rem;
+    color: #ffffff;
+}
+
+.class-card h3 {
+    margin: 0;
+}
+
+.class-card .price {
+    margin: 0.25rem 0 0.35rem;
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+
+.class-card p {
+    margin: 0;
+}
+
+.class-card.economy {
+    background-color: #66bf8f;
+}
+
+.class-card.business {
+    background-color: #5aa4df;
+}
+
+.class-card.first {
+    background-color: #285a89;
+}
+
+.subscription-plans {
+    background-color: #ffffff;
+    border: 1px solid #d8e2ef;
+    border-radius: 6px;
+    padding: 1rem;
+    box-shadow: 0 6px 16px rgba(9, 24, 40, 0.08);
+}
+
+.subscription-plans h2 {
+    margin: 0;
+    color: #173b63;
+    font-size: 1.2rem;
+}
+
+.section-intro {
+    margin: 0.3rem 0 0.9rem;
+    color: #425773;
+}
+
+.subscription-cards {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.subscription-card {
+    border-radius: 6px;
+    padding: 1.2rem;
+    background-color: #f8fafc;
+    border: 2px solid #d8e2ef;
+    transition: all 0.3s ease;
+}
+
+.subscription-card:hover {
+    border-color: #5aa4df;
+    box-shadow: 0 8px 20px rgba(90, 164, 223, 0.15);
+}
+
+.subscription-card h3 {
+    margin: 0 0 0.5rem;
+    color: #173b63;
+    font-size: 1.3rem;
+}
+
+.subscription-card h4 {
+    margin: 1rem 0 0.5rem;
+    color: #1d2a38;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.subscription-card h4:first-of-type {
+    margin-top: 0.5rem;
+}
+
+.subscription-card .price {
+    margin: 0 0 0.8rem;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #0f3057;
+}
+
+.subscription-card ul {
+    margin: 0 0 0.8rem;
+    padding-left: 1.2rem;
+    list-style: disc;
+    color: #425773;
+}
+
+.subscription-card ul li {
+    margin-bottom: 0.35rem;
+}
+
+.subscription-card.traveler-basic {
+    border-color: #66bf8f;
+}
+
+.subscription-card.traveler-basic:hover {
+    border-color: #4fa372;
+    box-shadow: 0 8px 20px rgba(102, 191, 143, 0.15);
+}
+
+.subscription-card.gold-traveler {
+    border-color: #ffc107;
+    background: linear-gradient(135deg, #fffbf0, #f8fafc);
+}
+
+.subscription-card.gold-traveler:hover {
+    border-color: #ffb300;
+    box-shadow: 0 8px 20px rgba(255, 193, 7, 0.15);
+}
+
+.subscription-card.gold-traveler h3 {
+    color: #ff9200;
+}
+
+.subscription-action {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #d8e2ef;
+}
+
+.subscription-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #0f3057, #1c4f7e);
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 0.75rem 2rem;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.subscription-btn:hover {
+    background: linear-gradient(135deg, #173b63, #244f6f);
+    box-shadow: 0 6px 16px rgba(15, 48, 87, 0.2);
+    transform: translateY(-2px);
+}
+
+.subscription-btn:active {
+    transform: translateY(0);
+}
+
+@media (max-width: 760px) {
+    .dashboard-shell {
+        width: 90%;
+        margin: 1rem 0.5rem 2rem;
+    }
+
+    .dashboard-grid,
+    .class-cards,
+    .subscription-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .dashboard-hero,
+    .info-card,
+    .pricing-panel {
+        border-radius: 6px;
+    }
+}
+
+@media (min-width: 761px) and (max-width: 980px) {
+    .dashboard-g,
+    .subscription-cardsrid,
+    .class-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

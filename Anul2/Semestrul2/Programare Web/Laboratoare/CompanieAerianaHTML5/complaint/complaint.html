@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ro">
+    <head>
+        <meta charset="UTF-8">
+        <title>Send a complaint</title>
+        <link rel="stylesheet" href="../officeStyle.css">
+        <link rel="stylesheet" href="../booking/bookingStyle.css">
+    </head>
+    <body class="booking-page subscription-page">
+        <div class="subscription-back-wrap">
+            <a href="../index.php" class="subscription-back-btn">Înapoi Acasă</a>
+        </div>
+
+        <main class="booking-shell">
+            <h1>Trimite o reclamație</h1>
+            <p class="booking-subtitle">Completează formularul de mai jos și noi ne ocupăm de restul.</p>
+
+            <form id="reservationForm" target="_self" class="booking-form">
+                <fieldset>
+                    <legend>Informații personale</legend>
+
+                    <div class="form-row">
+                        <label for="name">Nume</label>
+                        <input type="text" id="name" name="name" maxlength="30">
+                    </div>
+
+                    <div class="form-row">
+                        <label for="firstName">Prenume</label>
+                        <input type="text" id="firstName" name="firstName">
+                    </div>
+
+                     <div class="form-row">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email">
+                    </div>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>Informații reclamație</legend>
+
+                        <div class="form-row full-row">
+                            <label for="complaint">Descrieți problema întâmpinată</label>
+                            <textarea id="complaint" name="complaint" rows="6" placeholder="Descrieți...."></textarea>
+                        </div>
+
+
+                    <div class="full-row">
+                        <input type="image" id="complaintSubmit" src="https://static.vecteezy.com/system/resources/thumbnails/017/110/950/original/green-check-mark-icon-animation-animated-check-mark-on-white-background-free-video.jpg" alt="Trimite reclamația" width="90" height="50">
+                        <!--<input type="submit" id="subscriptionSubmit" value="Rezervă">-->
+                    </div>
+
+                    <div class="full-row">
+                        <input type="reset" id="complaintReset" value="Resetează">
+                    </div>
+                </fieldset>
+            </form>
+        </main>
+
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="complaint.js"></script>
+    </body>
+</html>

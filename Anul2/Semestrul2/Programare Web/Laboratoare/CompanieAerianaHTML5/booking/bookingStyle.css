@@ -1,0 +1,325 @@
+.booking-page {
+    background-color: #f4f7fb;
+    min-height: 100vh;
+}
+
+.booking-page .top-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 100vh;
+    background: #ffffff;
+    border-right: 1px solid #d0dae6;
+    box-shadow: 4px 0 12px rgba(11, 28, 44, 0.08);
+}
+
+.booking-page .top-menu ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 0.4rem;
+    overflow: visible;
+    padding: 1rem;
+}
+
+.booking-page .top-menu li {
+    width: 100%;
+}
+
+.booking-page .top-menu a {
+    display: block;
+    color: #1d2a38;
+    width: 100%;
+    padding: 0.75rem 0.85rem;
+    font-size: 1rem;
+}
+
+.booking-page .top-menu a::before {
+    content: none;
+}
+
+.booking-page .top-menu a:hover,
+.booking-page .top-menu a.active {
+    background-color: rgba(15, 48, 87, 0.08);
+    border-bottom-color: transparent;
+    border-left: 0;
+}
+
+.booking-page .top-menu a:hover::before,
+.booking-page .top-menu a.active::before {
+    --menu-icon-row: var(--menu-icon-row-hover);
+}
+
+.booking-shell {
+    width: 980px;
+    max-width: none;
+    margin: 1rem 1rem 2rem 260px;
+    padding: 0;
+}
+
+.subscription-page .booking-shell {
+    width: min(980px, calc(100% - 2rem));
+    margin: 0 auto 2rem;
+}
+
+.subscription-back-wrap {
+    width: min(980px, calc(100% - 2rem));
+    margin: 1rem auto 0.5rem;
+}
+
+.subscription-back-btn {
+    display: inline;
+    text-decoration: none;
+    color: #1d2a38;
+    border: 0;
+    background: transparent;
+    padding: 0;
+    font-weight: 600;
+}
+
+.subscription-back-btn:hover {
+    text-decoration: underline;
+}
+
+.booking-shell h1 {
+    margin: 0.2rem 0;
+    color: #1d2a38;
+    font-size: 1.6rem;
+}
+
+.booking-subtitle {
+    margin: 0.1rem 0 1rem;
+    color: #1d2a38;
+    padding: 0;
+}
+
+.booking-form {
+    margin: 0;
+}
+
+.booking-form fieldset {
+    border: 1px solid #b8c4d3;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #ffffff;
+}
+
+.booking-form legend {
+    padding: 0 0.35rem;
+    font-weight: 600;
+    color: #1d2a38;
+}
+
+.booking-form .form-row {
+    display: block;
+    margin-bottom: 0.8rem;
+}
+
+.booking-form .full-row {
+    display: block;
+    margin-bottom: 0.8rem;
+}
+
+.booking-form label,
+.booking-form span {
+    font-weight: 600;
+    color: #1d2a38;
+    display: inline-block;
+    margin-bottom: 0.3rem;
+}
+
+#name,
+#firstName,
+#email,
+#phone,
+#flightNr,
+#departure,
+#arrival,
+#date,
+#rating,
+#baggage,
+#specialNeeds,
+#complaint,
+#age,
+#dateOfBirth,
+#password {
+    width: 520px;
+    border: 1px solid #b8c4d3;
+    border-radius: 4px;
+    padding: 0.5rem 0.6rem;
+    font: inherit;
+    background-color: #ffffff;
+}
+
+#name:focus,
+#firstName:focus,
+#email:focus,
+#phone:focus,
+#flightNr:focus,
+#departure:focus,
+#arrival:focus,
+#date:focus,
+#rating:focus,
+#baggage:focus,
+#specialNeeds:focus,
+#complaint:focus {
+    outline: none;
+    border-color: #1d2a38;
+    box-shadow: 0 0 0 2px rgba(29, 42, 56, 0.12);
+}
+
+.booking-form input[readonly],
+.booking-form input:disabled {
+    background-color: #f0f3f7;
+    color: #4e5d6f;
+}
+
+.booking-form .class-options {
+    gap: 0.9rem;
+}
+
+.booking-form .class-options label {
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+#specialNeeds {
+    display: inline-block;
+    vertical-align: top;
+    min-height: 120px;
+    resize: vertical;
+}
+
+#complaint {
+    display: inline-block;
+    vertical-align: top;
+    min-height: 120px;
+    resize: vertical;
+}
+
+label[for='specialNeeds'] {
+    vertical-align: top;
+    margin-top: 0.35rem;
+    margin-bottom: 0;
+}
+
+label[for='complaint'] {
+    vertical-align: top;
+    margin-top: 0.35rem;
+    margin-bottom: 0;
+}
+
+#bookingSubmit,#subscriptionSubmit,#subscriptionReset {
+    border: 0;
+    background: #1d2a38;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 0.6rem 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#bookingSubmit:hover,
+#subscriptionSubmit:hover:not(:disabled),
+#subscriptionReset:hover {
+    background: #2a3a4b;
+}
+
+#subscriptionSubmit:disabled {
+    background: #a0aab4 !important;
+    color: #e8ecf0 !important;
+    opacity: 1;
+    cursor: not-allowed;
+}
+
+
+.wrong-input {
+    border-color: #e74c3c !important;
+    box-shadow: 0 0 0 2px rgba(231, 76, 60, 0.18);
+}
+
+/* ===== Optiunile "Serviciu la alegere" + editare inlinie ===== */
+.booking-form #chosenService .chosen-service-option {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    font-weight: 500;
+    margin-bottom: 0.4rem;
+}
+
+.booking-form #chosenService .chosen-service-option input[type="radio"] {
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.inline-edit-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #5a7a9a;
+    font-size: 0.95rem;
+    padding: 0 0.3rem;
+    line-height: 1;
+}
+
+.inline-edit-btn:hover { color: #1d2a38; }
+
+.inline-edit-form {
+    flex-basis: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 0.3rem;
+    flex-wrap: wrap;
+}
+
+.inline-edit-label,
+.inline-edit-value {
+    border: 1px solid #b8c4d3;
+    border-radius: 4px;
+    padding: 0.35rem 0.5rem;
+    font: inherit;
+    font-size: 0.9rem;
+    background: #ffffff;
+}
+
+.inline-edit-label { width: 200px; }
+.inline-edit-value { width: 130px; }
+
+.inline-save-btn,
+.inline-cancel-btn {
+    border: 0;
+    border-radius: 4px;
+    padding: 0.35rem 0.7rem;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.inline-save-btn {
+    background: #1d2a38;
+    color: #ffffff;
+}
+
+.inline-save-btn:hover { background: #2a3a4b; }
+
+.inline-cancel-btn {
+    background: #e0e6ee;
+    color: #1d2a38;
+}
+
+.inline-cancel-btn:hover { background: #c8d4e0; }
+
+.inline-edit-status {
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+
+.inline-edit-status.success { color: #217a3c; }
+.inline-edit-status.error   { color: #c0392b; }

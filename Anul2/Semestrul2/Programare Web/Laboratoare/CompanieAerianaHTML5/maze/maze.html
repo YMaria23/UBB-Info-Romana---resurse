@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Flight Path Escape - AERO</title>
+    <link rel="stylesheet" href="../officeStyle.css">
+    <link rel="stylesheet" href="mazeStyle.css">
+</head>
+<body>
+    <nav class="top-menu" aria-label="Navigare principală">
+        <ul>
+            <li><a href="../index.php" class="menu-home">Acasă</a></li>
+            <li><a href="../information/travelerInfo.html" class="menu-services">Servicii</a></li>
+            <li><a href="#destinatii" class="menu-destinations">Destinații</a></li>
+            <li><a href="../my_bookings.php" class="menu-booking">Rezervări</a></li>
+            <li><a href="maze.html" class="menu-games active">✈️ AERO Kids</a></li>
+        </ul>
+    </nav>
+
+    <div class="maze-container">
+        <h1>✈️ Flight Path Escape</h1>
+        <p class="instructions">Găsește ieșirea din labirint! Navighează folosind săgețile de pe tastatură.</p>
+
+        <div id="mazeCanvas" class="maze-canvas"></div>
+
+        <div class="controls">
+            <button id="generateBtn" class="btn-primary">Generează un nou labirint</button>
+            <button id="resetBtn" class="btn-secondary">Resetează poziția</button>
+            <p id="status" class="status-message"></p>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="maze.js"></script>
+</body>
+</html>
