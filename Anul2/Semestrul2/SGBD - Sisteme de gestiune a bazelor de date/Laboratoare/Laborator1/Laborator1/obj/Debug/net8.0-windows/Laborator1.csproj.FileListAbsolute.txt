@@ -1,0 +1,138 @@
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.exe
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.deps.json
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.runtimeconfig.json
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.pdb
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.AssemblyReference.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.Form1.resources
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.GenerateResource.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.AssemblyInfoInputs.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.AssemblyInfo.cs
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.CoreCompileInputs.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.Up2Date
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\refint\Laborator1.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.pdb
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.genruntimeconfig.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\ref\Laborator1.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.exe
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.deps.json
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.runtimeconfig.json
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Laborator1.pdb
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.AssemblyReference.cache
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.Form1.resources
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.GenerateResource.cache
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.AssemblyInfoInputs.cache
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.AssemblyInfo.cs
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.CoreCompileInputs.cache
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.csproj.Up2Date
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\refint\Laborator1.dll
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.pdb
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\Laborator1.genruntimeconfig.cache
+C:\Facultate\Semestrul4\SGBD\Laborator1\Laborator1\obj\Debug\net8.0-windows\ref\Laborator1.dll

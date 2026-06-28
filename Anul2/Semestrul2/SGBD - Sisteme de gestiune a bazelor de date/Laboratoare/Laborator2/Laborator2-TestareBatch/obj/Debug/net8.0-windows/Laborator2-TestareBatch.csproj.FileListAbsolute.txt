@@ -1,0 +1,90 @@
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.exe
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.deps.json
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.runtimeconfig.json
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.pdb
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.csproj.AssemblyReference.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2_TestareBatch.Form1.resources
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.csproj.GenerateResource.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.AssemblyInfoInputs.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.AssemblyInfo.cs
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.csproj.CoreCompileInputs.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborato.94C1ED65.Up2Date
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\refint\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.pdb
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.genruntimeconfig.cache
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\ref\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul 4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.exe
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.deps.json
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.runtimeconfig.json
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Laborator2-TestareBatch.pdb
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.csproj.AssemblyReference.cache
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2_TestareBatch.Form1.resources
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.csproj.GenerateResource.cache
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.AssemblyInfoInputs.cache
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.AssemblyInfo.cs
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.csproj.CoreCompileInputs.cache
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborato.94C1ED65.Up2Date
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\refint\Laborator2-TestareBatch.dll
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.pdb
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\Laborator2-TestareBatch.genruntimeconfig.cache
+C:\Facultate\Semestrul4\SGBD\Laborator2-TestareBatch\Laborator2-TestareBatch\obj\Debug\net8.0-windows\ref\Laborator2-TestareBatch.dll
