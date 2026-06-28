@@ -1,0 +1,11 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+bike1.jpg,22349,"{}",1,0,"{""name"":""rect"",""x"":4,""y"":28,""width"":392,""height"":366}","{}"
+bike02.jpg,19000,"{}",1,0,"{""name"":""rect"",""x"":15,""y"":86,""width"":353,""height"":225}","{}"
+bike03.jpg,33952,"{}",1,0,"{""name"":""rect"",""x"":61,""y"":136,""width"":274,""height"":259}","{}"
+bike04.jpg,25124,"{}",1,0,"{""name"":""rect"",""x"":3,""y"":2,""width"":396,""height"":395}","{}"
+bike05.jpg,34613,"{}",1,0,"{""name"":""rect"",""x"":64,""y"":50,""width"":280,""height"":285}","{}"
+bike06.jpg,30473,"{}",1,0,"{""name"":""rect"",""x"":61,""y"":137,""width"":273,""height"":255}","{}"
+bike07.jpg,32810,"{}",1,0,"{""name"":""rect"",""x"":54,""y"":192,""width"":236,""height"":206}","{}"
+bike08.jpg,39128,"{}",1,0,"{""name"":""rect"",""x"":49,""y"":2,""width"":327,""height"":340}","{}"
+bike09.jpg,33615,"{}",1,0,"{""name"":""rect"",""x"":4,""y"":7,""width"":363,""height"":388}","{}"
+bike10.jpg,35911,"{}",1,0,"{""name"":""rect"",""x"":135,""y"":118,""width"":229,""height"":274}","{}"

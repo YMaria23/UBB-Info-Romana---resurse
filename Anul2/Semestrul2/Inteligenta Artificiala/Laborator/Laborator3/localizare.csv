@@ -1,0 +1,13 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+test1.png,61840,"{}",3,0,"{""name"":""rect"",""x"":173,""y"":42,""width"":148,""height"":64}","{""text"":""Google\n""}"
+test1.png,61840,"{}",3,1,"{""name"":""rect"",""x"":336,""y"":51,""width"":82,""height"":42}","{""text"":""Cloud\n""}"
+test1.png,61840,"{}",3,2,"{""name"":""rect"",""x"":232,""y"":112,""width"":117,""height"":40}","{""text"":""Platform\n""}"
+test2.jpeg,136964,"{}",9,0,"{""name"":""rect"",""x"":74,""y"":295,""width"":335,""height"":169}","{""text"":""Succes\n""}"
+test2.jpeg,136964,"{}",9,1,"{""name"":""rect"",""x"":502,""y"":336,""width"":139,""height"":115}","{""text"":""în""}"
+test2.jpeg,136964,"{}",9,2,"{""name"":""rect"",""x"":697,""y"":315,""width"":635,""height"":119}","{""text"":""rezolvarea\n""}"
+test2.jpeg,136964,"{}",9,3,"{""name"":""rect"",""x"":126,""y"":596,""width"":602,""height"":128}","{""text"":""tEMELOR""}"
+test2.jpeg,136964,"{}",9,4,"{""name"":""rect"",""x"":854,""y"":576,""width"":196,""height"":137}","{""text"":""la\n""}"
+test2.jpeg,136964,"{}",9,5,"{""name"":""rect"",""x"":80,""y"":916,""width"":671,""height"":102}","{""text"":""LABORAtoarele""}"
+test2.jpeg,136964,"{}",9,6,"{""name"":""rect"",""x"":884,""y"":919,""width"":124,""height"":113}","{""text"":""de\n""}"
+test2.jpeg,136964,"{}",9,7,"{""name"":""rect"",""x"":98,""y"":1126,""width"":624,""height"":243}","{""text"":""Inteligență""}"
+test2.jpeg,136964,"{}",9,8,"{""name"":""rect"",""x"":766,""y"":1143,""width"":691,""height"":230}","{""text"":""Artificială""}"

@@ -1,0 +1,60 @@
+CERINȚA 4 -> Experimentul central
+
+(a) Care algoritm învață un drum mai scurt în politica greedy finală? Care algoritm obține o sumă cumulată mai mare în timpul antrenării?
+
+Algoritmul care învață un drum mai scurt în politica greedy finală este cel de tip off-policy (Q-learning), deoarece, deși greșește pe
+parcursul antrenării, la următorul pas, ia în considerare cea mai bună acțiune pe care o poate face, nu neapărat cea pe care ajunge să o aleagă.
+
+Algoritmul care obține o sumă cumulată mai mare pe parcursul antrenarii este SARSA, acesta fiind algoritmul mai „preventiv”. Acesta face greșeli
+și ia în considerare acțiunile reale pe care le face în stările viitoare (nu pe cea mai bună cunoscută, precum Q-learning). Acest lucru îl face
+să devină mai preventiv, iar în timp, constant.
+
+
+(b) De ce cei doi algoritmi converg la politici diferite? Răspunsul trebuie să facă referire explicită la diferența dintre ținte (max vs. acțiune eșantionată) și la conceptul on-policy vs. off-policy.
+
+Cei doi algoritmi converg la politici diferite, deoarece au un mod diferit de funcționare:
+- SARSA:
+    - în perioada de antrenare, alg. stabilește inclusiv acțiunea viitoare pe care o va lua și ține cont de aceasta la det. politicii
+    - învață action-state-value function (Q) conform politicii (on-policy)
+- Q-learning:
+    - în perioada de antrenare, alg. consideră că la următorul pas va lua acțiunea cea mai bună (și ține cont de aceasta în analiză), chiar dacă
+    în realitate este posibil să nu o aleagă pe aceea
+    - învață cea mai buna varianta de action-state-value function (Q*), dar aceasta nu reaspectă neapărat politica (off-policy)
+
+
+(c) De ce nu există o contradicție între (a) și răspunsul la (b)?
+
+Nu există contradicție între răspunsuri, deoarece se referă la același comportament.
+În cazul algoritmului SARSA, deoarece este on-policy (învață valoarea politicii rulate efectiv în timpul antrenării), va avea rezultate mult
+mai constante, cu precădere la finalul antrenării. Politica învățată, fiind cea reală, va ghida acțiunile alese, iar acestea vor deveni
+din ce în ce mai asemănătoare pe parcurs. Tutuși, deoarece învață din explorarea proprie, reține și greșelile făcute, tinzând să prefere o
+politică mai preventivă, din acest caz obținându-se un drum mai lung.
+
+În cazul algoritmului Q-learning, se învață o polotică optimală (nu neapărat cea prin care trece în timpul antrenării). Asta înseamnă că
+va găsi întotdeauna drumul optim. Totuși, deoarece nu învață efectiv din explorarea proprie, nu va avea parte de o explorare
+constantă (obținând când recompense mari, când foarte mici), spre deosebire de SARSA.
+
+
+
+CEINȚA 6 -> Reflecție teoretică
+
+1. Ce se întâmplă dacă setați ε = 0 de la început pentru Q-learning? Dar pentru SARSA? De ce?
+Q-learning va învăța oricum politica optimală, chiar dacă politica din explorarea lui reală nu coincide cu rezultatele. Așadar,
+setarea lui epsilon la 0, nu va avea un impact asupra politicii finale învățate, ci asupra modului de explorare.
+
+Când vine vorba de SARSA, dacă epsilon este 0, practic nu va mai lăsa modelul să exploreze, ci doar să se folosească de
+cea mai bună acțiune pe care o cunoaște, ceea ce va duce la determinarea politicii optimale. Acest lucru se întâmplă, deoarce,
+prin explorare, SARSA poate să fie penalizat (să cadă în prăpastie), devenind mai preventiv și alegând un drum mai lung, dar mai sigur.
+
+2. Dacă γ < 1 (ex. γ = 0.9), cum se schimbă preferința fiecărui algoritm pentru drumul scurt vs. drumul sigur? Argumentați.
+Dacă se schimbă valoarea factorului de discount, atunci se va considera mai importanta recompensa primita la pasul curent,
+decât recompensa din viitor. Astfel, pentru SARSA: va deveni mai important sa se îndepărteze de prăpastie, pentru a nu face
+o greșeală la pasul curent, dar va ajunge să facă un drum mai lung, deoarece nu a luat în considerare și rezultatul final (suma
+recompenselor).
+Pe de altă parte, Q-learning va continua să aleagă drumul cel mai scurt, nefiind atât de presat că se află lângă prăpastie,
+deoarece viitorul nu este atât de relevant în acest caz, ci doar optimalitatea de moment.
+
+3. Dați un exemplu din lumea reală (nu joc de grilă) în care ați prefera SARSA în locul Q-learning și explicați de ce.
+În acest exemplu depinde foarte mult de dorința utilizatorului, dar cel puțin în cazul meu, aș prefera SARSA în locul
+Q-learning-ului când vine vorba de un bot pentru investiții. Prefer ca deciziile să fie mai sigure și ca bot-ul să
+învețe din performanța proprie, fără a avea pierderi mari și haotice.

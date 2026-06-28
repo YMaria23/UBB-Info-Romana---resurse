@@ -1,0 +1,29 @@
+1. Care sunt diferentele de calitate intre textele generate cu cele doua tipuri de LLM-uri?
+
+    Textul generat cu LLM-ul adaptat pe poezii,leaga putin mai bine cuvintele intre ele, are mai mult sens si pastreaza,
+    oarecum, ideea poeziei pe parcursul strofelor. De asemenea, tot aceasta varianta tinde sa respecte mai mult regula
+    ca nu trebuie sa creeze mai putine sau mai multe strofe decat exista in poezia data.
+
+    Textul generat cu LMM-ul simplu, desi foloseste din cand in cand cuvinte mai pompoase si poate suna mai bine overall,
+    este, de cele mai multe ori, complet lipsit de sens. De asemenea, regula strofelor nu este deseori respectata.
+
+2. Ce se intampla daca versurile din prompt sunt in limba engleza?
+
+    Totul functioneaza normal, avand in vedere ca pe aceasta versiune am folosit poezii scrise in limba engleza.
+
+
+3. Ce se intampla daca versurile din prompt sunt in limba romana?
+
+    Din nou, depinde foarte mult de model si de modul in care a fost antrenat LLM-ul respectiv (el fiind antrenat pe un vocabular
+    ce contine cuvinte englezesti, spre exemplu, nu va recunoaste cuvintele in romana si va tot incerca sa le fragmenteze).
+
+
+4. Ce se intampla daca versurile din prompt sunt in limba romana si corpusul de antrenare este in limba engleza?
+
+    La fel cum am mentionat anterior, rezultatele vor fi mai slabe decat daca s-ar fi folosit o poezie scrisa in limba engleza,
+    deoarece LLM-ul nu va recunoaste cuvintele din limba romana, astfel pierzandu-se din sensul cuvintelor si din rima.
+
+
+5. Cum se poate "personaliza" LLM pentru a genera versuri in stil de pastel (cu accent pe frumusetea naturii)?
+    Ar putea fi antrenat pe pasteluri. Astfel, va tinde sa completeze versurile urmatoarelor poezii pe care le primeste,
+    punand accent pe elemente din natura.
